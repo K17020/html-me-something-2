@@ -1,0 +1,59 @@
+body{
+    background-color: #DAE1FF;
+}
+#center-width{
+    width: 70%;
+    margin: auto;
+    border: solid white;
+}
+#top-banner{
+    background-color: #FFE4AC;
+    height: 12rem;
+    font-family: Tangerine;
+    font-size: 10rem;
+    text-align: center;
+    padding-top: 2rem;
+    border-bottom: solid white;
+    
+}
+#center-border{
+    background-color: #E8BBA6;
+    height: 40rem;
+    
+}
+#main-image{
+    width: 30%;
+    float: left;
+    margin-top: 8rem;
+    margin-left: 4rem;
+}
+img{
+    border: solid white;
+    border-radius: 10%;
+}
+#who-am-i{
+    background-color: #DBC8E8;
+    border:  solid white;
+    border-radius: 2rem;
+    width: 50%;
+    font-family: Tangerine;
+    font-size: 2rem;
+    text-align: center;
+    padding: 1rem;
+    float: right;
+    margin-top: 6em;
+    margin-right: 1em;
+    
+}
+#meme{
+    background-color: white;
+
+}
+footer{
+    text-align: center;
+    font-size: 50%;
+}
+nav{
+    text-align: center;
+    padding:0;
+}
